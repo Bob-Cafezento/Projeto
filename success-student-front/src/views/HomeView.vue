@@ -1,11 +1,5 @@
 <script>
-export default {
-    methods: {
-        goLinguagens() {
-            alert('oioi')
-        }
-    }
-}
+
 </script>
 
 <template>

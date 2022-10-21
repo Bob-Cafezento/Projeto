@@ -13,7 +13,7 @@
       <a id="cabecalho" href="Conta.html">Conta</a>
     </div>
     <div class="header-item">
-      <a id="cabecalho" href="Ajuda.html">Ajuda</a>
+      <RouterLink id="cabecalho" to="/ajuda">Ajuda</RouterLink>
     </div>
     <div class="progress">Progresso</div>
   </header>
